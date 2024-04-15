@@ -1,3 +1,7 @@
+#HackingTroll friends. Very simple and efective 
+
+
+
 import random
 import string
 import time

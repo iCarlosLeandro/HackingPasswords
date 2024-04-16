@@ -1,4 +1,4 @@
-#HackingTroll friends. Very simple and efective 
+#HackingTroll friends. Very simple and efective, but with work around :D
 
 
 
